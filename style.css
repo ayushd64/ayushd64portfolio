@@ -1804,6 +1804,29 @@ body, html{
 }
 
 
+.card5s{
+  width: 580px;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+  float: left;
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+.card6s{
+  width: 580px;
+  height: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+  float: left;
+  display: flex;
+  align-items: center;
+  text-align: left;
+}
+
+
 .top1{
   width: 100%;
   height: 70%;
@@ -1815,6 +1838,46 @@ body, html{
 }
 
 .bottom1{
+  width: 100%;
+  height: 30%;
+  float: left;
+  background-color: orange;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+
+.top5{
+  width: 100%;
+  height: 70%;
+  float: left;
+  background-color: #001959;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('heart.png')
+}
+
+.bottom5{
+  width: 100%;
+  height: 30%;
+  float: left;
+  background-color: orange;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+
+.top6{
+  width: 100%;
+  height: 70%;
+  float: left;
+  background-color: #001959;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('heart.png')
+}
+
+.bottom6{
   width: 100%;
   height: 30%;
   float: left;
@@ -1983,6 +2046,79 @@ body, html{
 }
 
 .ch4{
+  font-family: oswald_regular, "sans-serif";
+  font-size: 20px;
+  text_align: center;
+  color: #001959;
+}
+
+.card5{
+  width: 220px;
+  height: 100%;
+  /* margin-left: 5%; */
+  background-color: #014b94;
+  box-shadow: 5px 5px 20px black;
+  /* float: left; */
+}
+
+.top5{
+  width: 100%;
+  height: 70%;
+  float: left;
+  background-color: #001959;
+  color: red;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('email.png')
+}
+
+.bottom5{
+  width: 100%;
+  height: 30%;
+  float: left;
+  background-color: orange;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.ch5{
+  font-family: oswald_regular, "sans-serif";
+  font-size: 20px;
+  text_align: center;
+  color: #001959;
+}
+
+
+.card6{
+  width: 220px;
+  height: 100%;
+  /* margin-left: 5%; */
+  background-color: #014b94;
+  box-shadow: 5px 5px 20px black;
+  /* float: left; */
+}
+
+.top6{
+  width: 100%;
+  height: 70%;
+  float: left;
+  background-color: #001959;
+  color: red;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('newspaper.png')
+}
+
+.bottom6{
+  width: 100%;
+  height: 30%;
+  float: left;
+  background-color: orange;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.ch6{
   font-family: oswald_regular, "sans-serif";
   font-size: 20px;
   text_align: center;
